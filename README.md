@@ -14,6 +14,8 @@ An app that has a landing page and notes page where users can write and delete n
 Use NPM to install [Express](https://www.npmjs.com/package/express)
 
 ## Usage
+[Deployed Site](https://note-taker-tvp8.onrender.com)
+
 ![Screenshot](Assets/image.png)
 
 ## License
