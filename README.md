@@ -8,14 +8,13 @@ An app that has a landing page and notes page where users can write and delete n
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
-Use NPM to install [Express]()
+Use NPM to install [Express](https://www.npmjs.com/package/express)
 
 ## Usage
-![Screenshot]()
+![Screenshot](Assets/image.png)
 
 ## License
 
